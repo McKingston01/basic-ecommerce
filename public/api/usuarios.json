@@ -1,0 +1,31 @@
+[
+    {
+        "id": "c6a45c0e-85f3-4305-99b7-943f8d1fb2d3",
+        "nombre": "Admin 1",
+        "correo": "admin1@mail.com" ,
+        "password": "123456",
+        "admin": true
+    },
+    {
+        "id": "fcb46249-6f59-4f7c-94d1-f7e00f4fbce6",
+        "nombre": "Admin 2",
+        "correo": "admin2@mail.com" ,
+        "password": "123456",
+        "admin": true
+    },
+    {
+        "id": "39c0db74-fbd5-491d-80db-e1a6b57524ac",
+        "nombre": "Miguel Osorio",
+        "correo": "miguel.osorio@mail.com" ,
+        "password": "123456",
+        "admin": false
+    },
+    {
+        "id": "e2ea82e6-2695-439f-81b7-2c1fa85396de",
+        "nombre": "Marta Figueroa",
+        "correo": "marta.figueroao@mail.com" ,
+        "password": "123456",
+        "admin": false
+    }
+
+]
